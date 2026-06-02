@@ -5,4 +5,8 @@ Today I learned about: - Version control - Creating a repository - The edit-comm
 
 My Github profile: https://github.com/lakshikadilrukshi34
 
+<<<<<<< Updated upstream
 Hello this is my new branch **lakshika**
+=======
+Hello this is my new branch **lakshika**
+>>>>>>> Stashed changes
